@@ -1,6 +1,6 @@
 #include "Student.cpp"
 #include "Student_Class.h"
-#include "Hash_Table.h"
+#include "Hashing.h"
 #include "Binary_Search.h"
 
 #include<iostream>
