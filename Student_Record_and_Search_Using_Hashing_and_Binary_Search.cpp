@@ -23,7 +23,7 @@ int main()
     HT.Insert_Value(1221103318, &Student_Number_5);
     HT.Insert_Value(1221109580, &Student_Number_6);
 
-    int Search_ID = 1221106032;
+    int Search_ID = 1221102237;
     Student* found = HT.Hash_Search(Search_ID);
 
     if(found != NULL)
